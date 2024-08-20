@@ -12,7 +12,7 @@ Importance of software engineering in the technology industry :
 aSoftware engineering enables the creation of software applications and systems that power various aspects of modern life, including :
 a) communication - software engineering enables the development of communication tools that facilitate instant messaging, video calls, and social networking, making it easier for people to stay connected regardless of distance.
 Examples include WhatsApp and Zoom
-b) Commerce  - software engineering drives the creation of e-commerce platforms and digital payment systems, making online shopping and transactions secure and efficient. 
+b) Commerce  - software engineering drives the creation of e-commerce platforms and digital payment systems, making online shopping and transactions secure and efficient.
 Example, Amazon and Shopify
 c) Entertainment - The entertainment industry relies on software engineering to develop video games, streaming services, and multimedia content platforms.
 d)  Healthcare - healthcare, software engineering is essential for creating electronic health records (EHR) systems, telemedicine platforms, and medical devices.  
